@@ -554,12 +554,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ejoi8/laravel-my-payments.git",
-                "reference": "3cfc61d8e2ea17d720b4a752b2402dcc920a3d56"
+                "reference": "b5beb7ba2ca53c09a9a95a1b43001da6bfecfbee"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ejoi8/laravel-my-payments/zipball/3cfc61d8e2ea17d720b4a752b2402dcc920a3d56",
-                "reference": "3cfc61d8e2ea17d720b4a752b2402dcc920a3d56",
+                "url": "https://api.github.com/repos/ejoi8/laravel-my-payments/zipball/b5beb7ba2ca53c09a9a95a1b43001da6bfecfbee",
+                "reference": "b5beb7ba2ca53c09a9a95a1b43001da6bfecfbee",
                 "shasum": ""
             },
             "require": {
@@ -601,7 +601,7 @@
                 "issues": "https://github.com/ejoi8/laravel-my-payments/issues",
                 "source": "https://github.com/ejoi8/laravel-my-payments/tree/main"
             },
-            "time": "2025-06-04T04:35:20+00:00"
+            "time": "2025-06-04T06:07:25+00:00"
         },
         {
             "name": "fruitcake/php-cors",
