@@ -88,8 +88,6 @@ Route::post('/form2', function (Request $request) {
         'proof_file' => 'required|file|mimes:jpg,jpeg,png|max:2048',
     ]);
 
-    $path = $request->file('proof_file')->store('proofs', 'public');
-
     $paymentService = new PaymentService();
     $result = $paymentService->createPayment([
         'amount' => 115.00,
